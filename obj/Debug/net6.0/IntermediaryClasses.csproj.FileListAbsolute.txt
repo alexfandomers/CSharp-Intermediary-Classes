@@ -1,0 +1,15 @@
+C:\C#\IntermediaryClasses\bin\Debug\net6.0\IntermediaryClasses.exe
+C:\C#\IntermediaryClasses\bin\Debug\net6.0\IntermediaryClasses.deps.json
+C:\C#\IntermediaryClasses\bin\Debug\net6.0\IntermediaryClasses.runtimeconfig.json
+C:\C#\IntermediaryClasses\bin\Debug\net6.0\IntermediaryClasses.dll
+C:\C#\IntermediaryClasses\bin\Debug\net6.0\IntermediaryClasses.pdb
+C:\C#\IntermediaryClasses\obj\Debug\net6.0\IntermediaryClasses.csproj.AssemblyReference.cache
+C:\C#\IntermediaryClasses\obj\Debug\net6.0\IntermediaryClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\IntermediaryClasses\obj\Debug\net6.0\IntermediaryClasses.AssemblyInfoInputs.cache
+C:\C#\IntermediaryClasses\obj\Debug\net6.0\IntermediaryClasses.AssemblyInfo.cs
+C:\C#\IntermediaryClasses\obj\Debug\net6.0\IntermediaryClasses.csproj.CoreCompileInputs.cache
+C:\C#\IntermediaryClasses\obj\Debug\net6.0\IntermediaryClasses.dll
+C:\C#\IntermediaryClasses\obj\Debug\net6.0\refint\IntermediaryClasses.dll
+C:\C#\IntermediaryClasses\obj\Debug\net6.0\IntermediaryClasses.pdb
+C:\C#\IntermediaryClasses\obj\Debug\net6.0\IntermediaryClasses.genruntimeconfig.cache
+C:\C#\IntermediaryClasses\obj\Debug\net6.0\ref\IntermediaryClasses.dll

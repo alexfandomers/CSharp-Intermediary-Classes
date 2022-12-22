@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IntermediaryClasses/1.0.0": {
+        "runtime": {
+          "IntermediaryClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IntermediaryClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
